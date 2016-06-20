@@ -1,3 +1,3 @@
-# JohaJoshiWebsite
-MyfirstWebsite
-ff
+# Joha Joshi Website
+My first Website
+Hopefully this works

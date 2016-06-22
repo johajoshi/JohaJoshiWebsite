@@ -1,0 +1,88 @@
+/*General*/
+/*site body*/
+body {
+ background-color: lavender;
+ color: #999
+ font-family: 'Open Sans', sans-serif;
+}
+#wrapper
+{
+  max-width: 940px;
+  padding: 0 5%;
+  margin: 0 auto;
+  color: white; 
+}
+a
+{
+  text-decoration:none;
+}
+img {
+  max-width:100%
+}
+/*Heading*/
+#logo
+{
+  text-align: center;
+  margin: 0;
+}
+header
+{
+  background:gray;
+  color: white;
+  border-color:black;
+  text-align:center; 
+}
+h1, h2
+{
+  color: white;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8 em;
+} 
+/*Navigation*/
+nav
+{
+  text-align:center;
+  padding:10px 0;
+  margin: 20px 0 0;
+  color: blue;
+}
+nav a, nav a:visited
+{
+  color: green;
+}
+ 
+a:hover
+{
+  color: #fff;
+}
+ 
+nav a:selected
+{
+  color: #32673f;
+}
+
+/************************
+First Page
+*************************/
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+  background-color: white;
+  color: green;
+/*Footer*/
+footer
+{
+  background:gray;
+  color: white;
+  padding-top: 50 px;
+  border-color:black;
+  text-align:center; 
+}
